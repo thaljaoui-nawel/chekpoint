@@ -1,0 +1,31 @@
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  background-color: beige;
+}
+#navbar {
+  padding-top: 80px;
+  height: 300px;
+}
+
+#contact {
+  padding: 30px;
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+
+  color: white;
+}
+#About {
+  align-content: center;
+}
+#travail p {
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.box {
+  border: 1px solid rgb(189, 28, 28);
+  padding: 20px;
+}
